@@ -22,3 +22,10 @@ or reminders.
 * Font Awesome: For additional icons (e.g., create and clear buttons).
 * Google Fonts: Custom fonts for a handwritten look.
 * Local Storage: Persists notes in the browser.
+
+https://github.com/user-attachments/assets/60319874-b4f6-4ea5-8fb4-c57be08b4b53
+
+
+
+
+
