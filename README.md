@@ -1,6 +1,6 @@
 # About the Project
 ## Stylish -- 
-Sticky Notes is a modern, interactive web application that allows users to create and manage personal sticky notes with a playful and visually appealing design. 
+PinItUp is a modern, interactive web application that allows users to create and manage personal sticky notes with a playful and visually appealing design. 
 Built with Next.js, TypeScript, and Tailwind CSS, the app features randomly styled notes with unique fonts, colors, and moods, along with drag-and-drop functionality, local storage persistence, 
 and delightful animations like a loading spinner and floating background elements. Users can add, delete, and reorder notes, making it a fun and functional tool for jotting down ideas, affirmations, 
 or reminders.
